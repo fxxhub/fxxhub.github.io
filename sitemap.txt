@@ -1,2 +1,5 @@
+http://example.com/2023/04/13/fxx/
+http://example.com/2023/04/13/test/
 http://example.com/2023/04/13/hello-world/
 http://example.com/
+http://example.com/tags/fxx/
